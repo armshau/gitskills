@@ -1,3 +1,4 @@
 # gitskills
 Creating a new branch is quick AND simple.
-Git is a free software ... test take issue bug 104
+Git is a free software ... 
+test take issue bug 105
